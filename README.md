@@ -2,7 +2,7 @@
 Aplicación de modelos de crecimiento económicos a una economía real en base a la Penn World Table
 
 Este repositorio tiene como objetivo proveer el código para realizar estimaciones de modelos de crecimiento económico a una economía real, tomando como base la Penn World Table. 
-Utiliza los modelos de Solow-Swan, Ramsey-Cass-Koopmans y también realiza una aplicación de las regresiones propuestas por Mankiw, Romer y Weil (1992)
+Utiliza los modelos de Solow-Swan, Ramsey-Cass-Koopmans, Harrod-Domar y también realiza una aplicación de las regresiones propuestas por Mankiw, Romer y Weil (1992)
 
 Los notebooks están pensados para ser ejecutados en Google Colab, cargando el archivo excel en drive. 
 La PWT puede obtenerse en https://www.rug.nl/ggdc/productivity/pwt/ 
